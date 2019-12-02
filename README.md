@@ -33,3 +33,6 @@ NUM2 - WEAPONS ICONS ON/OFF
 
 Annoying not completely transparent overlay.
 You need to play in windowed full screen.
+
+
+Weapons icons are in "weapons" forlder. and in PSD file. you can use JavaScript file for export all pictures as resized. this js file beside of psd file.
