@@ -1,0 +1,7 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: Ara dizin (Release\) başka bir projeden (totally_legit.vcxproj) paylaşılan dosyalar içeriyor. Bu, hatalı temizleme ve yeniden oluşturma davranışına neden olabilir.
+  Kod üretiliyor
+  0 of 1330 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Kodun üretilmesi tamamlandı
+  test.vcxproj -> C:\Users\Amiral\Downloads\CSGO-Cheat-master\CSGO-Cheat-master\Release\AmiralRouter_CSGO_Lite_Esp_External.exe

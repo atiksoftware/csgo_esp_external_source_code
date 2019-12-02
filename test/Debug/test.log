@@ -1,0 +1,31 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: Ara dizin (Debug\) başka bir projeden (totally_legit.vcxproj) paylaşılan dosyalar içeriyor. Bu, hatalı temizleme ve yeniden oluşturma davranışına neden olabilir.
+  draw.cpp
+c:\users\amiral\downloads\csgo-cheat-master\csgo-cheat-master\test\draw.cpp(8): warning C4244: '=': 'DWORD' - 'float' dönüşümü; veri kaybı olabilir
+c:\users\amiral\downloads\csgo-cheat-master\csgo-cheat-master\test\draw.cpp(9): warning C4244: '=': 'DWORD' - 'float' dönüşümü; veri kaybı olabilir
+c:\users\amiral\downloads\csgo-cheat-master\csgo-cheat-master\test\draw.cpp(257): warning C4244: 'bağımsız değişken': 'float' - 'int' dönüşümü; veri kaybı olabilir
+c:\users\amiral\downloads\csgo-cheat-master\csgo-cheat-master\test\draw.cpp(259): warning C4244: 'bağımsız değişken': 'float' - 'int' dönüşümü; veri kaybı olabilir
+c:\users\amiral\downloads\csgo-cheat-master\csgo-cheat-master\test\draw.cpp(261): warning C4244: 'bağımsız değişken': 'float' - 'int' dönüşümü; veri kaybı olabilir
+c:\users\amiral\downloads\csgo-cheat-master\csgo-cheat-master\test\draw.cpp(263): warning C4244: 'bağımsız değişken': 'float' - 'int' dönüşümü; veri kaybı olabilir
+c:\users\amiral\downloads\csgo-cheat-master\csgo-cheat-master\test\draw.cpp(266): warning C4244: 'bağımsız değişken': 'float' - 'int' dönüşümü; veri kaybı olabilir
+c:\users\amiral\downloads\csgo-cheat-master\csgo-cheat-master\test\draw.cpp(272): warning C4244: 'bağımsız değişken': 'float' - 'int' dönüşümü; veri kaybı olabilir
+c:\users\amiral\downloads\csgo-cheat-master\csgo-cheat-master\test\draw.cpp(274): warning C4244: 'bağımsız değişken': 'float' - 'int' dönüşümü; veri kaybı olabilir
+c:\users\amiral\downloads\csgo-cheat-master\csgo-cheat-master\test\draw.cpp(276): warning C4244: 'bağımsız değişken': 'float' - 'int' dönüşümü; veri kaybı olabilir
+c:\users\amiral\downloads\csgo-cheat-master\csgo-cheat-master\test\draw.cpp(278): warning C4244: 'bağımsız değişken': 'float' - 'int' dönüşümü; veri kaybı olabilir
+c:\users\amiral\downloads\csgo-cheat-master\csgo-cheat-master\test\draw.cpp(281): warning C4244: 'bağımsız değişken': 'float' - 'int' dönüşümü; veri kaybı olabilir
+c:\users\amiral\downloads\csgo-cheat-master\csgo-cheat-master\test\draw.cpp(287): warning C4244: 'bağımsız değişken': 'float' - 'int' dönüşümü; veri kaybı olabilir
+c:\users\amiral\downloads\csgo-cheat-master\csgo-cheat-master\test\draw.cpp(289): warning C4244: 'bağımsız değişken': 'float' - 'int' dönüşümü; veri kaybı olabilir
+c:\users\amiral\downloads\csgo-cheat-master\csgo-cheat-master\test\draw.cpp(291): warning C4244: 'bağımsız değişken': 'float' - 'int' dönüşümü; veri kaybı olabilir
+c:\users\amiral\downloads\csgo-cheat-master\csgo-cheat-master\test\draw.cpp(293): warning C4244: 'bağımsız değişken': 'float' - 'int' dönüşümü; veri kaybı olabilir
+c:\users\amiral\downloads\csgo-cheat-master\csgo-cheat-master\test\draw.cpp(296): warning C4244: 'bağımsız değişken': 'float' - 'int' dönüşümü; veri kaybı olabilir
+c:\users\amiral\downloads\csgo-cheat-master\csgo-cheat-master\test\draw.cpp(304): warning C4838: 'float ile 'LONG arasında dönüştürme bir daraltma dönüştürmesi gerektiriyor
+c:\users\amiral\downloads\csgo-cheat-master\csgo-cheat-master\test\draw.cpp(304): warning C4244: 'başlatılıyor': 'float' - 'LONG' dönüşümü; veri kaybı olabilir
+c:\users\amiral\downloads\csgo-cheat-master\csgo-cheat-master\test\draw.cpp(311): warning C4244: 'bağımsız değişken': 'LONG' - 'float' dönüşümü; veri kaybı olabilir
+c:\users\amiral\downloads\csgo-cheat-master\csgo-cheat-master\test\draw.cpp(313): warning C4244: 'bağımsız değişken': 'float' - 'int' dönüşümü; veri kaybı olabilir
+c:\users\amiral\downloads\csgo-cheat-master\csgo-cheat-master\test\draw.cpp(319): warning C4244: 'bağımsız değişken': 'LONG' - 'float' dönüşümü; veri kaybı olabilir
+c:\users\amiral\downloads\csgo-cheat-master\csgo-cheat-master\test\draw.cpp(321): warning C4244: 'bağımsız değişken': 'float' - 'int' dönüşümü; veri kaybı olabilir
+c:\users\amiral\downloads\csgo-cheat-master\csgo-cheat-master\test\draw.cpp(327): warning C4244: 'bağımsız değişken': 'LONG' - 'float' dönüşümü; veri kaybı olabilir
+c:\users\amiral\downloads\csgo-cheat-master\csgo-cheat-master\test\draw.cpp(329): warning C4244: 'bağımsız değişken': 'float' - 'int' dönüşümü; veri kaybı olabilir
+c:\users\amiral\downloads\csgo-cheat-master\csgo-cheat-master\test\draw.cpp(339): warning C4805: '!=' : işlemde güvenli olmayan 'boolean' türü ve 'bool' türü karışımı
+c:\users\amiral\downloads\csgo-cheat-master\csgo-cheat-master\test\draw.cpp(353): warning C4805: '==' : işlemde güvenli olmayan 'boolean' türü ve 'bool' türü karışımı
+c:\users\amiral\downloads\csgo-cheat-master\csgo-cheat-master\test\draw.cpp(400): warning C4244: 'bağımsız değişken': 'float' - 'INT' dönüşümü; veri kaybı olabilir
+  test.vcxproj -> C:\Users\Amiral\Downloads\CSGO-Cheat-master\CSGO-Cheat-master\Debug\ar_csgo_lite_esp.exe
