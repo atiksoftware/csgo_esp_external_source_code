@@ -5,6 +5,9 @@ Simple External ESP and Aim Lock for CSGO (also my first :) )
  
 [![IMAGE ALT TEXT HERE](https://raw.githubusercontent.com/atiksoftware/csgo_esp_external_source_code/master/Screenshot_1.jpg)](https://www.youtube.com/watch?v=KKOSiwVJcVk)
 
+whatch that about how it working:
+https://www.youtube.com/watch?v=KKOSiwVJcVk
+
 I using offsets from hazedumper
 Repo : https://github.com/frk1/hazedumper
 Hazedumper is search patterns and finding offets.
