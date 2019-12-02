@@ -1,26 +1,26 @@
 # CSGO-Cheat
-Simple External ESP and Aim Lock for CSGO (my first)
+Simple External ESP and Aim Lock for CSGO (also my first :) )
 
-By the time you read this the offsets for different memory locations will have been updated so you will have to put the latest and recompile the hack.
+**Probably has been indexed by VAC's signatures, so detected. Use at your own risk.
 
-Released by me at:
-http://www.unknowncheats.me/forum/counterstrike-global-offensive/177490-simple-external-esp-aim-lock-private.html
+![promisechains](https://raw.githubusercontent.com/atiksoftware/csgo_esp_external_source_code/master/Screenshot_1.jpg)
 
-Probably has been indexed by VAC's signatures, so detected. Use at your own risk.
 
-![promisechains](https://cloud.githubusercontent.com/assets/16614194/15490686/4cadad26-2138-11e6-828a-c116ec72bccd.png)
+i using offsets from hazedumper
+repo : https://github.com/frk1/hazedumper
+hazedumper is search patterns and finding offets.
+
+Then, you can get quick update as yourself for esp. 
+
+If ESP not working:
+1. start csgo.exe with -inscure parameter
+2. start a game with bots
+3. start hazedumper.exe as administrator
+4. restart this app
+
+script:
+NUM1 - AIM HACK ON/OFF
+NUM2 - WEAPONS ICONS ON/OFF
 
 Annoying not completely transparent overlay.
 You need to play in windowed full screen.
-
-Hold CTRL to lock on target's head when ur near his crosshair.
-
-Also included AHK script:
-F1 to enable Bunny Hopping, then hold space,
-F2 to enable 1 tapping (hold Middle mouse -> different speeds for different guns/crouching with alt)
-F3 to enable bursting, (right click to toggle)
-F4+ for different guns Anti recoil patterns.
-
-Credit to writer of the original ahk w/ anti-patterns.
-Credit to whoever wrote that w2screen function.
-Credit to whoever wrote that D3d CDraw class.
