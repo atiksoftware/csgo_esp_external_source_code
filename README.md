@@ -1,4 +1,4 @@
-# Amirak Router - CSGO Lite ESP - External
+# Amiral Router - CSGO Lite ESP - External
 Simple External ESP and Aim Lock for CSGO (also my first :) )
 
 **Probably has been indexed by VAC's signatures, so detected. Use at your own risk.
