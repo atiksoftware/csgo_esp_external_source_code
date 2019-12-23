@@ -1,4 +1,6 @@
 # Amiral Router - CSGO Lite ESP - External
+![Total visitor](https://visitor-count-badge.herokuapp.com/total.svg?repo_id=atiksoftware.csgo_esp_external_source_code)
+![Visitors in today](https://visitor-count-badge.herokuapp.com/today.svg?repo_id=atiksoftware.csgo_esp_external_source_code)  
 Simple External ESP and Aim Lock for CSGO (also my first :) )
 
 **Probably has been indexed by VAC's signatures, so detected. Use at your own risk.**
